@@ -1,0 +1,8 @@
+{
+  "ketergantungan" : {
+    "kapur" : " ^4.1.0 " ,
+    "momen" : " ^2.29.3 " ,
+    "pengambilan simpul" : " ^2.6.1 " ,
+    "readline-sync" : " ^1.4.10 "
+  }
+}
